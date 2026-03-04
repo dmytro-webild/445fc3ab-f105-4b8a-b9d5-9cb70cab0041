@@ -48,7 +48,7 @@ export default function LandingPage() {
           background={{ variant: "radial-gradient" }}
           leftCarouselItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/round-saw-hands-builder-work-laying-paving-slabs_1150-10081.jpg",              imageAlt: "Construction workers on site"},
+              imageSrc: "http://img.b2bpic.net/free-photo/round-saw-hands-builder-work-laying-paving-slabs_1150-10081.jpg?_wi=1",              imageAlt: "Construction workers on site"},
             {
               imageSrc: "http://img.b2bpic.net/free-photo/unevenly-built-brick-wall-with-cement-coming-out-cracks_181624-1443.jpg",              imageAlt: "Wall construction project"},
             {
@@ -58,13 +58,13 @@ export default function LandingPage() {
           ]}
           rightCarouselItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg",              imageAlt: "Commercial building project"},
+              imageSrc: "http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg?_wi=1",              imageAlt: "Commercial building project"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/construction-with-mobile-phone_329181-2852.jpg",              imageAlt: "Residential construction"},
+              imageSrc: "http://img.b2bpic.net/free-photo/construction-with-mobile-phone_329181-2852.jpg?_wi=1",              imageAlt: "Residential construction"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/production-manufacture-sightseeing-excursion-interior-ceramic-tile-manufacturing-plant-ceramic-tile-manufacturing-plant-with-conveyer-belt_645730-195.jpg",              imageAlt: "Industrial construction"},
+              imageSrc: "http://img.b2bpic.net/free-photo/production-manufacture-sightseeing-excursion-interior-ceramic-tile-manufacturing-plant-ceramic-tile-manufacturing-plant-with-conveyer-belt_645730-195.jpg?_wi=1",              imageAlt: "Industrial construction"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/round-saw-hands-builder-work-laying-paving-slabs_1150-10081.jpg",              imageAlt: "Completed project"},
+              imageSrc: "http://img.b2bpic.net/free-photo/round-saw-hands-builder-work-laying-paving-slabs_1150-10081.jpg?_wi=2",              imageAlt: "Completed project"},
           ]}
           buttons={[
             { text: "Get a Quote", href: "#contact" },
@@ -86,7 +86,7 @@ export default function LandingPage() {
             { value: "500+", title: "Projects Completed" },
             { value: "98%", title: "Customer Satisfaction" },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg?_wi=2"
           imageAlt="C Wall Builders team on construction site"
           mediaAnimation="slide-up"
           metricsAnimation="slide-up"
@@ -124,11 +124,11 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           products={[
             {
-              id: "1",              name: "Downtown Commercial Complex",              price: "2.4M",              imageSrc: "http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg",              imageAlt: "Commercial building"},
+              id: "1",              name: "Downtown Commercial Complex",              price: "2.4M",              imageSrc: "http://img.b2bpic.net/free-photo/giant-glass-buildings_1127-2023.jpg?_wi=3",              imageAlt: "Commercial building"},
             {
-              id: "2",              name: "Residential Home Addition",              price: "285K",              imageSrc: "http://img.b2bpic.net/free-photo/construction-with-mobile-phone_329181-2852.jpg",              imageAlt: "Residential construction"},
+              id: "2",              name: "Residential Home Addition",              price: "285K",              imageSrc: "http://img.b2bpic.net/free-photo/construction-with-mobile-phone_329181-2852.jpg?_wi=2",              imageAlt: "Residential construction"},
             {
-              id: "3",              name: "Industrial Warehouse",              price: "1.8M",              imageSrc: "http://img.b2bpic.net/free-photo/production-manufacture-sightseeing-excursion-interior-ceramic-tile-manufacturing-plant-ceramic-tile-manufacturing-plant-with-conveyer-belt_645730-195.jpg",              imageAlt: "Industrial building"},
+              id: "3",              name: "Industrial Warehouse",              price: "1.8M",              imageSrc: "http://img.b2bpic.net/free-photo/production-manufacture-sightseeing-excursion-interior-ceramic-tile-manufacturing-plant-ceramic-tile-manufacturing-plant-with-conveyer-belt_645730-195.jpg?_wi=2",              imageAlt: "Industrial building"},
           ]}
           gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
